@@ -1,4 +1,4 @@
-# Mango Chops Studio  
+# Willicent Mbugua  
 **"The future, if not the NOW."**  
 
 Welcome to **Mango Chops Studio**, a platform dedicated to creativity and exploration.  
