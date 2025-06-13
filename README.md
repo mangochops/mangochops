@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Events Grid](www.eventsgrid.co.ke)
 
-- 🌱 I’m currently learning **Laravel, AWS and system design**
+- 🌱 I’m currently learning **Go, Kubernetes and Cloud computing(GCP)**
 
 - 👯 I’m looking to collaborate on **Fullstack and frontend roles**
 
