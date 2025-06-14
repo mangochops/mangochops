@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go, Kubernetes and Cloud computing(GCP)**
 
-- 👯 I’m looking to collaborate on **Fullstack and frontend roles**
+- 👯 I’m looking to collaborate on **Fullstack, frontend roles or devops**
 
 - 🤝 I’m looking for help with **Design,building and deploying**
 
