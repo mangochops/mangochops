@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack, frontend roles or devops**
 
-- 🤝 I’m looking for help with **Design,building and deploying**
+- 🤝 I’m looking for help with **Design,building,debugging and deploying**
 
 - 👨‍💻 All of my projects are available at [willicentmbugua.vercel.app](willicentmbugua.vercel.app)
 
