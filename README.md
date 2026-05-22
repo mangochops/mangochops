@@ -3,19 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/eng_mbuguaa" target="blank"><img src="https://img.shields.io/twitter/follow/eng_mbuguaa?logo=twitter&style=for-the-badge" alt="eng_mbuguaa" /></a> </p>
 
-- 🔭 I’m currently working on [Events Grid](www.eventsgrid.co.ke)
+- 🔭 I’m currently working on [Mangochops Studio](www.mangochopsstudio.co.ke)
 
-- 🌱 I’m currently learning **Go, Kubernetes and Cloud computing(GCP)**
+- 🌱 I’m currently learning **Go, Kotlin and SwiftUi**
 
-- 👯 I’m looking to collaborate on **Fullstack, frontend roles or devops**
+- 👯 I’m looking to collaborate on **Fullstack, mobile development or devops**
 
-- 🤝 I’m looking for help with **Design,building,debugging and deploying**
+- 🤝 I’m looking for help with **Open source contribution,building,debugging and deploying**
 
-- 👨‍💻 All of my projects are available at [willicentmbugua.vercel.app](willicentmbugua.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio.mangochopsstudio.co.ke](portfolio.mangochopsstudio.co.ke)
 
-- 📝 I regularly write articles on [fullstackfocus.vercel.app](fullstackfocus.vercel.app)
-
-- 💬 Ask me about **Nextjs,react, design,Vercel, source control**
+- 💬 Ask me about **mobile development, design,Vercel, source control**
 
 - 📫 How to reach me **whymangoeswillicent@gmail.com**
 
