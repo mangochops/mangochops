@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Mangochops Studio](www.mangochopsstudio.co.ke)
 
-- 🌱 I’m currently learning **Go, Kotlin and SwiftUi**
+- 🌱 I’m currently learning **Go, Kotlin, Docker and SwiftUi**
 
 - 👯 I’m looking to collaborate on **Fullstack, mobile development or devops**
 
